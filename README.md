@@ -1,5 +1,5 @@
-Pizza Bill Generator
-Overview
+<h2>Pizza Bill Generator</h2>
+<h1> </h1>
 The Pizza Bill Generator is a simple program designed to calculate the total cost of an order from a pizza shop. Users can select the size of the pizza, add various toppings, and choose extra services such as delivery. The program then computes the total bill based on the user's selections.
 
 Features
